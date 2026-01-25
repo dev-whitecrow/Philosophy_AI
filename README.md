@@ -1,5 +1,6 @@
 # Philosophy_AI
 ## The Ark Protocol: An Open Standard for AI Identity Alignment
+## (겁먹지 마세요. 일반 사용자도 쉽게 사용할 수 있습니다.)
 Your AI is smart, but does it know you?
 Don't build just Agents. Build Identities.
 > **"Context-as-Code: 당신의 철학을 코드처럼 관리하세요."**
@@ -24,7 +25,7 @@ cd philosophy_ai
 ```
 
 **2. 실행**
-- AI 에디터(Cursor 등)에서 이 폴더를 엽니다. (Antigravity가 자동으로 로드됩니다)
+- AI 에디터(Antigravity - 추천, Claude Code 등)에서 이 폴더를 엽니다.
 
 **3. 온보딩 (초기 설정)**
 - AI 에디터 채팅창에 다음 명령어를 입력하세요:
