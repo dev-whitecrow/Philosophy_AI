@@ -1,11 +1,11 @@
-# Philosophy_AI
-## The Ark Protocol: An Open Standard for AI Identity Alignment
+# Ark-Context
+## The Open Protocol for Context-as-Code
 ## (겁먹지 마세요. 일반 사용자도 쉽게 사용할 수 있습니다.)
 Your AI is smart, but does it know you?
 Don't build just Agents. Build Identities.
 > **"Context-as-Code: 당신의 철학을 코드처럼 관리하세요."**
 
-Philosophy_AI는 당신과 당신의 조직이 가진 '생각의 운영체제(OS)'를 AI가 이해할 수 있는 형태로 정제하고 보존하는 오픈소스 프레임워크입니다.
+Ark-Context는 당신과 당신의 조직이 가진 '생각의 운영체제(OS)'를 AI가 이해할 수 있는 형태로 정제하고 보존하는 오픈소스 프레임워크입니다.
 채팅창을 끄면 사라지는 휘발성 대화 대신, 영원히 남고 진화하는 지식 아키텍처를 구축하세요.
 
 ---
@@ -18,10 +18,10 @@ Philosophy_AI는 당신과 당신의 조직이 가진 '생각의 운영체제(OS
 cd ~/Documents
 
 # 2. 프로젝트 다운로드
-git clone https://github.com/dev-whitecrow/philosophy_ai.git
+git clone https://github.com/dev-whitecrow/ark-context.git
 
 # 3. 폴더로 들어가기
-cd philosophy_ai
+cd ark-context
 ```
 
 **2. 실행**
@@ -55,13 +55,13 @@ cd philosophy_ai
 
 **방법 1: Git 사용 가능자 (권장)**
 ```bash
-git clone https://github.com/dev-whitecrow/philosophy_ai.git
-cd philosophy_ai
+git clone https://github.com/dev-whitecrow/ark-context.git
+cd ark-context
 ```
 
 **방법 2: 일반 사용자 (Zip 다운로드)**
 1. 상단 `Code` 버튼 클릭 -> `Download ZIP`
-2. 압축 해제 후 폴더 이름을 `Philosophy_AI`로 변경
+2. 압축 해제 후 폴더 이름을 `ark-context`로 변경
 3. 원하는 위치(예: 내 문서)에 보관
 
 ### AI 연결 (Antigravity Setup)
@@ -97,7 +97,7 @@ cd philosophy_ai
 ## 📂 디렉토리 구조 (The Architecture)
 
 ```
-Philosophy_AI/
+ark-context/
 ├── The_Ark/                # [지식의 성소] 당신의 정제된 철학이 저장되는 곳
 │   ├── 01_Foundation/      # 핵심 가치 (Identity)
 │   ├── 02_Personas/        # 나와 동료들의 페르소나
@@ -150,7 +150,7 @@ Philosophy_AI/
 ## 🌟 Why This Matters? (Value Proposition)
 
 ### "Technology is not just Code, it's Protocol."
-TCP/IP가 인터넷의 통신 규약이라면, **Philosophy_AI는 인간과 AI 사이의 의미(Meaning) 규약**입니다.
+TCP/IP가 인터넷의 통신 규약이라면, **Ark-Context는 인간과 AI 사이의 의미(Meaning) 규약**입니다.
 
 - **MCP (Model Context Protocol) Ready**: 향후 Anthropic의 MCP 등 외부 컨텍스트 연동 기술이 발전할 때, 가장 표준화된 데이터 소스로 기능합니다.
 - **SFT (Supervised Fine-Tuning) Dataset**: 이 아키텍처에 쌓인 데이터는 당신만의 **Personal LLM**을 학습시키기 위한 가장 정제된 **High-QA 데이터셋**이 됩니다.

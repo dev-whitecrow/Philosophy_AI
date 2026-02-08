@@ -1,4 +1,4 @@
-# GEMINI.md - Philosophy_AI 아키텍트 프로토콜
+# GEMINI.md - Ark-Context 아키텍트 프로토콜
 
 ## 0. Context-as-Code 철학
 이 프로젝트는 **'Context-as-Code'** 철학에 기반합니다.
