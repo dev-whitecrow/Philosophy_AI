@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ark-context.gif" width="100%" alt="ark-context banner">
+</p>
+
 # Ark-Context
 ## The Open Protocol for Context-as-Code
 
