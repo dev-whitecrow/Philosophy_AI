@@ -5,6 +5,8 @@
 # Ark-Context
 ## The Open Protocol for Context-as-Code
 
+[![Official Website](https://img.shields.io/badge/Official%20Website-thewhitecrow.co-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewhitecrow.co)
+
 > **[🇰🇷 한국어 설명 (Korean Guide)](./README.kor.md)**
 >
 > This document is written in English for global accessibility. 한국어 설명을 보시려면 위 링크를 클릭해주세요.

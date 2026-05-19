@@ -1,6 +1,9 @@
 # Ark-Context
 ## The Open Protocol for Context-as-Code
 ## (겁먹지 마세요. 일반 사용자도 쉽게 사용할 수 있습니다.)
+
+[![Official Website](https://img.shields.io/badge/공식%20홈페이지-thewhitecrow.co-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewhitecrow.co)
+
 Your AI is smart, but does it know you?
 Don't build just Agents. Build Identities.
 > **"Context-as-Code: 당신의 철학을 코드처럼 관리하세요."**
